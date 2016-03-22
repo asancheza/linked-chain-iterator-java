@@ -11,5 +11,5 @@ javac Test.java
 ## Run
 
 ```
-java Test.java
+java Test
 ```
